@@ -63,7 +63,7 @@ Software Engineer
   <li><strong>Frameworks</strong>: Vue.js, Django, Spring, PyTorch, TensorFlow, Scikit-learn, Keras.</li>
   <li><strong>SQL DDBBs and Big Data:</strong>: MariaDB/MySQL, PostgreSQL, SQLite, ElasticSearch.</li>
   <li><strong>Design</strong>: Drawio, Moqups, Bootstrap, Radix UI.</li>
-  <li><strong>APIs</strong>: REST, WebSockets, integración de APIs de terceros.</li>
+  <li><strong>APIs</strong>: REST, WebSockets, third-party APIs integration.</li>
   <li><strong>Version control</strong>: Git, GitHub.</li>
   <li><strong>DevOps</strong>: Docker, Kubernetes, Jenkins, Node.js, Vite, GitHub Actions, Google Cloud, Apache.</li>
   <li><strong>Testing/QA</strong>: Postman (APIs), Selenium, Playwright, JUnit5, Django Test, SonarQube.</li>
